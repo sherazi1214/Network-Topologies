@@ -2,7 +2,7 @@
 
 In networking, topology refers to the layout or structure of how devices (nodes) are connected in a network. The choice of topology affects how data flows, how scalable the network is, and how easy it is to manage or troubleshoot.
 
-# 1. Bus Topology
+## 1. Bus Topology
 ### Definition:
 All devices are connected to a single central cable (called the bus or backbone). Data travels in both directions along this cable.
 
@@ -26,7 +26,7 @@ Difficult to troubleshoot.
 ### Use Cases:
 Small home or office networks (less common today).
 
-# 2. Star Topology
+## 2. Star Topology
 ### Definition:
 All devices are connected to a central device, such as a switch or hub.
 
@@ -50,7 +50,7 @@ Common in modern LANs (Local Area Networks).
 
 Office networks, schools, and businesses.
 
-# 3. Ring Topology
+## 3. Ring Topology
 ### Definition:
 Each device is connected to two other devices, forming a circular data path.
 
@@ -71,7 +71,7 @@ More complex than star or bus.
 Some fiber-optic networks.
 Token Ring networks (mostly outdated today).
 
-# 4. Mesh Topology
+## 4. Mesh Topology
 ### Definition:
 Every device is connected to every other device in the network, either fully or partially.
 
@@ -93,7 +93,7 @@ Military communication systems.
 Mission-critical environments.
 Backbone networks.
 
-# 5. Tree Topology
+## 5. Tree Topology
 ### Definition:
 A combination of star and bus topologies. Devices are connected in a hierarchical structure (like a tree).
 
